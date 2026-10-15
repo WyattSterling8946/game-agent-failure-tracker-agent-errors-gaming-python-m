@@ -75,3 +75,7 @@ The code stays simple on purpose — here's what to set up before going live: Th
 
 **Game Agent Failure Tracker Agent Errors Gaming Python M: Observability**
 - **Game Agent Failure Tracker Agent Errors Gaming Python M:** Capture on the server (`POST /v1/errors/capture`); scrub PII before sending. Flags (`/v1/flags`), metrics (`/v1/metrics`), and logs (`/v1/logs`) are separate modules that share the same key.
+
+## Further reading
+
+- [Frontend Backend Error Tracking API for React Node — A Practical Choice](docs/frontend-backend-error-tracking-api-for-react-nod-pq8gx1.md)
